@@ -70,12 +70,12 @@
 
         extra1 {
             display-name = "extra1";
-            status = "disabled";
+            status = "reserved";
         };
 
         extra2 {
             display-name = "extra2";
-            status = "disabled";
+            status = "reserved";
         };
     };
 };
